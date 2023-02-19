@@ -1,2 +1,5 @@
-# kmyers0819.github.io
-ePortfolio
+#Kasey Myers ePortfolio
+
+#SNHU CS-499 : Computer Science Capstone
+
+##WELCOME
