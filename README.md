@@ -77,7 +77,27 @@ To enhance this project, I decided to flesh out the scene. As you can see in the
 
 These enhancements required updates to the source.cpp, camera.h, and shader files. The camera.h enhancements and screenshots can be found further down in the algorithms and data structures section. A final enhancement that I made was to improve portability. I have included all required libraries/packages, and files within the solution as opposed to on my local machine. So, as long as the client has the .sln file, they will have everything they need to run the program without having to download any libraries and change any pointers in the includes and libraries settings for the project.
 
-Enhance project render:
+Encapsulated libraries, header files, and required resources:
+
+![encap](images/solution.jpg)
+
+Legs created for desk using member functions:
+
+![legs](images/legs.jpg)
+
+Globe rotation:
+
+![globe](images/globe.jpg)
+
+Lamp creation:
+
+![lamp](images/lamp.jpg)
+
+Lamp light direction and position:
+
+![lamp pos](images/lamp pos.jpg)
+
+Enhanced project render:
 
 ![enhanced](images/final render.jpg)
 
