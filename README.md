@@ -49,13 +49,45 @@ Throughout the program, I have increased my capacity to learn new skills over a 
 
 *Artifact Link:* [GL Scene Enhanced](https://github.com/kmyers0819/kmyers0819.github.io/blob/fe3fd29ea0f3904a1d718a2eabcd5ca0af01f21f/OpenGLSample.sln)
 
+The artifact that I chose to display my competency in Software Design and Engineering is a project from my CS-330 Computer Graphics and Visualizations course completed in December of 2022. This project consisted of taking a 2d sketch, image, or photograph and recreating it in a 3D scene using OpenGL libraries and the C++ programming language in Visual Studio.
+
+This project was one of my favorite to work on. It really encouraged a structured waterfall-like approach to developing the project. By this, I mean it was a step by step process that started with creating simple shapes such as triangles and then connecting those shapes to create primitive 3D objects. From there, we learned how to add textures, camera and camera movement, and lighting. In the end, we would end up with a 3D "world" that we could navigate using the WASD camera movements.
+
+Primitive shape:
+
+![primitive shape](images/primitive shape.jpg)
+
+Primitive object:
+
+![primitive object](images/primitive object.jpg)
+
+Texture:
+
+![texture](images/texture.jpg)
+
+Light Source:
+
+![light](images/light source.jpg)
+
+Original project render:
+
+![original](images/original render.jpg
+
+To enhance this project, I decided to flesh out the scene. As you can see in the original project, I had a desktop only with a globe, book, pencil cup, and a single overhead light source. The project was impressive for a first attempt but fell a bit flat. In my enhanced project, I have completed the desk, added new camera movement to include panning the camera up and down, add object movement with globe rotation, and added a second light source and new object in the form of a desk lamp.
+
+These enhancements required updates to the source.cpp, camera.h, and shader files. The camera.h enhancements and screenshots can be found further down in the algorithms and data structures section. A final enhancement that I made was to improve portability. I have included all required libraries/packages, and files within the solution as opposed to on my local machine. So, as long as the client has the .sln file, they will have everything they need to run the program without having to download any libraries and change any pointers in the includes and libraries settings for the project.
+
+Enhance project render:
+
+![enhanced](images/final render.jpg)
+
 ---
 
 ## Algorithms and Data Structures
 
 *Artifact Link:* [GL Scene Enhanced](https://github.com/kmyers0819/kmyers0819.github.io/blob/fe3fd29ea0f3904a1d718a2eabcd5ca0af01f21f/OpenGLSample.sln)
 
-The artifact that I chose to display my competency in Data Structures and Algorithms is a project from my CS-330 Computer Graphics and Visualizations course completed in December of 2022. This project consisted of taking a 2d sketch, image, or photograph and recreating it in a 3D scene using OpenGL libraries and the C++ programming language in Visual Studio.
+The artifact that I chose to display my competency in Data Structures and Algorithms is the same project from my CS-330 Computer Graphics and Visualizations course completed in December of 2022. This project consisted of taking a 2d sketch, image, or photograph and recreating it in a 3D scene using OpenGL libraries and the C++ programming language in Visual Studio.
 
 I chose this artifact specifically for its algorithms used to create objects, guide camera movements, and place objects. I’ve always viewed algorithms simply as instructions. For example, how do I bake a cake? What steps are involved? Those steps, or instructions, are an algorithm. For this specific artifact, algorithms are used in abundance to create objects out of primitive forms such as squares, triangles, or cubes. Algorithms are also used to guide the camera movement and transform, or move, objects within the scene.
 
