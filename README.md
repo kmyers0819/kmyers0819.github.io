@@ -67,11 +67,11 @@ Texture:
 
 Light Source:
 
-![light](images/light source.jpg)
+![light source](images/light source.jpg)
 
 Original project render:
 
-![original](images/original render.jpg)
+![original render](images/original render.jpg)
 
 To enhance this project, I decided to flesh out the scene. As you can see in the original project, I had a desktop only with a globe, book, pencil cup, and a single overhead light source. The project was impressive for a first attempt but fell a bit flat. In my enhanced project, I have completed the desk, added new camera movement to include panning the camera up and down, add object movement with globe rotation, and added a second light source and new object in the form of a desk lamp.
 
@@ -79,7 +79,7 @@ These enhancements required updates to the source.cpp, camera.h, and shader file
 
 Encapsulated libraries, header files, and required resources:
 
-![encap](images/solution.jpg)
+![solution](images/solution.jpg)
 
 Legs created for desk using member functions:
 
@@ -99,7 +99,7 @@ Lamp light direction and position:
 
 Enhanced project render:
 
-![enhanced](images/final render.jpg)
+![final render](images/final render.jpg)
 
 ---
 
@@ -115,23 +115,23 @@ In my enhancement of this artifact, I have added additional camera movement opti
 
 Source.cpp file:
 
-![main cpp improvement](images/main cpp camera update.png)
+![main cpp camera update](images/main cpp camera update.png)
 
 camera.h file:
 
-![camera.h edit 1](images/camera.h movement update.png)
+![camera.h movement update](images/camera.h movement update.png)
 
-![camera.h edit 2](images/camera.h algorithm update.png)
+![camera.h algorithm update](images/camera.h algorithm update.png)
 
 In addition, I have included the steps required to incorporate new objects within the artifact such as table legs and a desk lamp. To create these new objects, I had to utilize data structures such as fixed sets to hold point values as well as an algorithm within individual methods used to create objects. This algorithm includes creating the mesh, adding the point values, transforming the object, and adding texture.
 
 Original project:
 
-![original project](images/original render.jpg)
+![original render](images/original render.jpg)
 
 Enhanced project:
 
-![enhanced project](images/final render.jpg)
+![final render](images/final render.jpg)
 
 ## Databases
 
