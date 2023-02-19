@@ -93,6 +93,8 @@ Databases are an area that I could improve upon in the future. It is an area tha
 
 I also wrote a simple query script to demonstrate my knowledge of querying the database. It showcases examples of showing the created tables, querying the table to display all information within it, querying the table while searching for rows that contain certain words, and querying the table to search for certain words but only display specific columns. This would allow the purchaser of the program to use my script as a template to search the database for specific information that they are looking for. For example, do they need a library for math? I have a query template for that.
 
+![show tables](images/show tables.jpg)
+
 ![query](images/math query.jpg)
 
 As mentioned above, this is an area that I could grow in and could benefit from shadowing or interning with a database administrator to improve and hone my skills. However, with a Software Engineering focus, databases are not at the forefront of my skill set. In the future, I plan to expand my skills and abilities with SQL based databases, MongoDB, and other databse engines to better prepare myself for future positions that I may hold.
