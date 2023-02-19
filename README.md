@@ -47,13 +47,13 @@ Throughout the program, I have increased my capacity to learn new skills over a 
 
 ## Software Design and Engineering
 
-[GL Scene Enhanced](https://github.com/kmyers0819/kmyers0819.github.io/blob/fe3fd29ea0f3904a1d718a2eabcd5ca0af01f21f/OpenGLSample.sln)
+*Artifact Link:* [GL Scene Enhanced](https://github.com/kmyers0819/kmyers0819.github.io/blob/fe3fd29ea0f3904a1d718a2eabcd5ca0af01f21f/OpenGLSample.sln)
 
 ---
 
 ## Algorithms and Data Structures
 
-[GL Scene Enhanced](https://github.com/kmyers0819/kmyers0819.github.io/blob/fe3fd29ea0f3904a1d718a2eabcd5ca0af01f21f/OpenGLSample.sln)
+*Artifact Link:* [GL Scene Enhanced](https://github.com/kmyers0819/kmyers0819.github.io/blob/fe3fd29ea0f3904a1d718a2eabcd5ca0af01f21f/OpenGLSample.sln)
 
 The artifact that I chose to display my competency in Data Structures and Algorithms is a project from my CS-330 Computer Graphics and Visualizations course completed in December of 2022. This project consisted of taking a 2d sketch, image, or photograph and recreating it in a 3D scene using OpenGL libraries and the C++ programming language in Visual Studio.
 
@@ -82,6 +82,9 @@ Enhanced project:
 ![enhanced project](images/final render.jpg)
 
 ## Databases
+
+*Artifact Links:*
+
 [OpenGL Accompanying Database Script](https://github.com/kmyers0819/kmyers0819.github.io/blob/c737a914be87ed4101c4d6ad1ddca37ada7f08a1/OpenGL.sql)
 
 [Simple Query Example OpenGL DB](https://github.com/kmyers0819/kmyers0819.github.io/blob/c737a914be87ed4101c4d6ad1ddca37ada7f08a1/OpenGL%20Simple%20Query%20Example.sql)
