@@ -81,3 +81,18 @@ Enhanced project:
 [OpenGL Accompanying Database Script](https://github.com/kmyers0819/kmyers0819.github.io/blob/c737a914be87ed4101c4d6ad1ddca37ada7f08a1/OpenGL.sql)
 
 [Simple Query Example OpenGL DB](https://github.com/kmyers0819/kmyers0819.github.io/blob/c737a914be87ed4101c4d6ad1ddca37ada7f08a1/OpenGL%20Simple%20Query%20Example.sql)
+
+When it came to enhancing my skills with databases, prior to the degree program, I had none. For this artifact, I chose to build a database from scratch in MySQL Workbench to accompany the artifact that I chose for the above two categories. For example, if I were to sell my program to an individual or company who wanted to build upon it, I felt it necessary to provide an accompanying database of libraries, debugging tools, and editors to make such endeavors simpler on the buyer.
+
+Databases are an area that I could improve upon in the future. It is an area that I only had a handful of courses in and therefore, do not feel as confident with. However, I built this database from scratch using the MySQL Workbench and language. The database consists of four tables:
+
+1. Tools: the main table that has all of the information listed in it
+2. Libraries: a table created from the main table that lists only the libraries
+3. Editors: a table created from the main table that lists only the editors
+4. Debugging tools: a table created from the main table that lists only the debugging tools
+
+I also wrote a simple query script to demonstrate my knowledge of querying the database. It showcases examples of showing the created tables, querying the table to display all information within it, querying the table while searching for rows that contain certain words, and querying the table to search for certain words but only display specific columns. This would allow the purchaser of the program to use my script as a template to search the database for specific information that they are looking for. For example, do they need a library for math? I have a query template for that.
+
+![query](images/math query.jpg)
+
+
