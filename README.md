@@ -71,7 +71,7 @@ Light Source:
 
 Original project render:
 
-![original](images/original render.jpg
+![original](images/original render.jpg)
 
 To enhance this project, I decided to flesh out the scene. As you can see in the original project, I had a desktop only with a globe, book, pencil cup, and a single overhead light source. The project was impressive for a first attempt but fell a bit flat. In my enhanced project, I have completed the desk, added new camera movement to include panning the camera up and down, add object movement with globe rotation, and added a second light source and new object in the form of a desk lamp.
 
