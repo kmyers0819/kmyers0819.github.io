@@ -95,4 +95,4 @@ I also wrote a simple query script to demonstrate my knowledge of querying the d
 
 ![query](images/math query.jpg)
 
-
+As mentioned above, this is an area that I could grow in and could benefit from shadowing or interning with a database administrator to improve and hone my skills. However, with a Software Engineering focus, databases are not at the forefront of my skill set. In the future, I plan to expand my skills and abilities with SQL based databases, MongoDB, and other databse engines to better prepare myself for future positions that I may hold.
