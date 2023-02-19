@@ -52,3 +52,5 @@ Throughout the program, I have increased my capacity to learn new skills over a 
 ## Algorithms and Data Structures
 
 ## Databases
+[OpenGL Accompanying Database Script](https://github.com/kmyers0819/kmyers0819.github.io/blob/c737a914be87ed4101c4d6ad1ddca37ada7f08a1/OpenGL.sql)
+[Simple Query Example OpenGL DB](https://github.com/kmyers0819/kmyers0819.github.io/blob/c737a914be87ed4101c4d6ad1ddca37ada7f08a1/OpenGL%20Simple%20Query%20Example.sql)
