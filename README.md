@@ -47,9 +47,13 @@ Throughout the program, I have increased my capacity to learn new skills over a 
 
 ## Software Design and Engineering
 
+[GL Scene Enhanced](https://github.com/kmyers0819/kmyers0819.github.io/blob/fe3fd29ea0f3904a1d718a2eabcd5ca0af01f21f/OpenGLSample.sln)
+
 ---
 
 ## Algorithms and Data Structures
+
+[GL Scene Enhanced](https://github.com/kmyers0819/kmyers0819.github.io/blob/fe3fd29ea0f3904a1d718a2eabcd5ca0af01f21f/OpenGLSample.sln)
 
 The artifact that I chose to display my competency in Data Structures and Algorithms is a project from my CS-330 Computer Graphics and Visualizations course completed in December of 2022. This project consisted of taking a 2d sketch, image, or photograph and recreating it in a 3D scene using OpenGL libraries and the C++ programming language in Visual Studio.
 
