@@ -51,6 +51,32 @@ Throughout the program, I have increased my capacity to learn new skills over a 
 
 ## Algorithms and Data Structures
 
+The artifact that I chose to display my competency in Data Structures and Algorithms is a project from my CS-330 Computer Graphics and Visualizations course completed in December of 2022. This project consisted of taking a 2d sketch, image, or photograph and recreating it in a 3D scene using OpenGL libraries and the C++ programming language in Visual Studio.
+
+I chose this artifact specifically for its algorithms used to create objects, guide camera movements, and place objects. I’ve always viewed algorithms simply as instructions. For example, how do I bake a cake? What steps are involved? Those steps, or instructions, are an algorithm. For this specific artifact, algorithms are used in abundance to create objects out of primitive forms such as squares, triangles, or cubes. Algorithms are also used to guide the camera movement and transform, or move, objects within the scene.
+
+In my enhancement of this artifact, I have added additional camera movement options to accompany the existing WASD operations where W is zoom in, S is zoom out, A is move left, and D is move right. I have now included Q and E, where Q moves the camera up while E moves the camera down. This involved updating both the source.cpp file as well as the camera.h file to provide instructions on how the camera should operate.
+
+Source.cpp file:
+
+![main cpp improvement](images/main cpp camera update.png)
+
+camera.h file:
+
+![camera.h edit 1](images/camera.h movement update.png)
+
+![camera.h edit 2](images/camera.h algorithm update.png)
+
+In addition, I have included the steps required to incorporate new objects within the artifact such as table legs and a desk lamp. To create these new objects, I had to utilize data structures such as fixed sets to hold point values as well as an algorithm within individual methods used to create objects. This algorithm includes creating the mesh, adding the point values, transforming the object, and adding texture.
+
+Original project:
+
+![original project](images/original render.jpg)
+
+Enhanced project:
+
+![enhanced project](images/final render.jpg)
+
 ## Databases
 [OpenGL Accompanying Database Script](https://github.com/kmyers0819/kmyers0819.github.io/blob/c737a914be87ed4101c4d6ad1ddca37ada7f08a1/OpenGL.sql)
 
