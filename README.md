@@ -7,12 +7,6 @@ The artifacts that are presented in this ePortfolio demonstrate my skills in the
 
 ---
 
-<div style="text-align: center;">
-  <a href="https://kmyers0819.github.io" title="ePortfolio Home Page"><img src="https://img.shields.io/badge/Home-ePortfolio-blue.svg?style=for-the-badge&logo=homeassistant" /></a>
-</div>
-
----
-
 ## Professional Self-Assessment
 
 I joined the Computer Science Program at SNHU in June of 2020 after making the decision to complete my unfinished bachelor’s degree from 2012. Program completion has taken me approximately two and a half years of full-time study. I made the decision to complete my degree program after being inspired by my husband who works in the field as well and by finding that I enjoyed programming after completing several courses through Code Academy online.
@@ -45,9 +39,15 @@ A staple in my coursework has been learning and applying the Software Developmen
 
 Throughout the program, I have increased my capacity to learn new skills over a short span of time, bring solutions to problems with intellectual humility, and lend a leadership attitude to excel in a computer science program based on hard skills and abilities. These skills and abilities include, but are not limited to computer and technology skills, data analysis, software development, and technical writing which is demonstrated and exemplified in the artifacts accompanying this ePortfolio. This wealth of skills, abilities, and knowledge make me an excellent software engineer prospect that is focused on developing algorithms that computers understand, but perhaps more importantly, humans can understand.
 
+---
+
 ## Code Review
 
+---
+
 ## Software Design and Engineering
+
+---
 
 ## Algorithms and Data Structures
 
@@ -98,3 +98,11 @@ I also wrote a simple query script to demonstrate my knowledge of querying the d
 ![query](images/math query.jpg)
 
 As mentioned above, this is an area that I could grow in and could benefit from shadowing or interning with a database administrator to improve and hone my skills. However, with a Software Engineering focus, databases are not at the forefront of my skill set. In the future, I plan to expand my skills and abilities with SQL based databases, MongoDB, and other databse engines to better prepare myself for future positions that I may hold.
+
+---
+
+<div style="text-align: center;">
+  <a href="https://kmyers0819.github.io" title="ePortfolio Home Page"><img src="https://img.shields.io/badge/Home-ePortfolio-blue.svg?style=for-the-badge&logo=homeassistant" /></a>
+</div>
+
+---
