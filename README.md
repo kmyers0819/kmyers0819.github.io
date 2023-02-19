@@ -24,24 +24,24 @@ Attention to detail correlates to code reviews, security standards, and best pra
 A staple in my coursework has been learning and applying the Software Development Lifecycle and management strategies while working on a large-scale project as an individual or as part of a team. Many logistics are required for planning a large-scale project that requires coordinating with peers and fellow team members. Understanding your clients’ needs as part of the SDLC can help to translate those needs into pseudocode and algorithms that eventually result in a program. That knowledge brings gratefulness and satisfaction when put to practice. During my years of program study, the above soft skills as well as creativity, communication, and time management, have been increased and improved immensely.
 
 **Hard Skills**
--Computer and Technology Skills	
--Data Analysis
--Data Visualization	
--Programming
--Software Development
--Technical Writing
--Security Mindset
--Mobile Development	
+- Computer and Technology Skills	
+- Data Analysis
+- Data Visualization	
+- Programming
+- Software Development
+- Technical Writing
+- Security Mindset
+- Mobile Development	
 
 **Soft Skills**
--Organizational Skills
--Attention To Detail
--Critical Thinking
--Problem Solving
--Collaboration
--JAVA
--Python
--C++
+- Organizational Skills
+- Attention To Detail
+- Critical Thinking
+- Problem Solving
+- Collaboration
+- JAVA
+- Python
+- C++
 
 Throughout the program, I have increased my capacity to learn new skills over a short span of time, bring solutions to problems with intellectual humility, and lend a leadership attitude to excel in a computer science program based on hard skills and abilities. These skills and abilities include, but are not limited to computer and technology skills, data analysis, software development, and technical writing which is demonstrated and exemplified in the artifacts accompanying this ePortfolio. This wealth of skills, abilities, and knowledge make me an excellent software engineer prospect that is focused on developing algorithms that computers understand, but perhaps more importantly, humans can understand.
 
