@@ -43,6 +43,10 @@ Throughout the program, I have increased my capacity to learn new skills over a 
 
 ## Code Review
 
+*View my code review video on Google Drive here:*
+
+[Code Review Video](https://drive.google.com/file/d/1wn1ngWMvVh3sV4WBi0ullpyjhnRHej-8/view?usp=sharing)
+
 ---
 
 ## Software Design and Engineering
